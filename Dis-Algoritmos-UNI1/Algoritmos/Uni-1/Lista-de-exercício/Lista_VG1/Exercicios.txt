@@ -1,0 +1,38 @@
+
+  Ex1 : Faça um algoritmo para calcular a média de 3 notas de um aluno(a) e mostrar o resultado na tela.
+
+  Ex2 : Faça um algoritmo que calcule a média de 3 notas e informe se
+        Aluno(a) aprovado:       Média maior ou igual a 7;
+        Aluno(a) reprovado:      Média menor do que 3;
+        Aluno(a) em recuperação: Média entre 3 6,9;
+
+  Ex3 : Faça um algoritmo que calcula a idade de uma pessoa e informa se ela é de maior.
+
+  Ex4 :Faça um algoritmo que calcule o dobro de um número se ele for menor do que 10 e o triplo caso contrario.
+
+  Ex5 : Faça um algoritmo que permita o usuário escolher uma das opções abaixo. O algoritmo derevá mostrar no final a opção escolhida
+        1.Hamburger 2.Pizza 3.Pastel 4.Empada 5.Cachorro-Quente.
+
+  Ex6 : faça um algoritmo que mostre uma mensagem 20 vezes na tela do usuário.
+  
+  Ex7 : Faça um algoritmo para calcular a média aritmédica de 50 alunos.
+
+  Ex8 : Faça um algoritmo que leia números inteiros até que seja digitado o valor 0. Calcule e mostre a quantidade de números digitados, a média aritmética desses números, a quantidade de números pares e a quantidade de números ímpares.
+  
+  Ex9 : Faça um algoritmo que leia vários números e informe quantos desses números estão entre 100 e 200. Mostre a média desses valores ques estão entre 100 e 200 e para quando um número negativo for digitado.
+
+  Ex10 :Faça um algoritmo que leia 10 números inteiros e conte quantos são pares e quantos são ímpares.
+  
+  Ex11 :Elabore um algoritmos que calcule o fatorial de um número inteiro positivo fornecido pelo usuário.
+
+  Ex12 :Crie um algoritmo que pergunte um númro ao usuário e mostre a tabuada desse número de 1 a 10.
+
+  Ex13 :Escreva um algoritmo que leia um número e informe se ele é par ou ímpar. O algoritmo deve perguntar ao usuário se deseja continuar ou não.
+
+  Ex14 :Desenvolva um algoritmo que leia números inteiros até que o usuário digite 0. No final, exiba a soma de todos os números digitados(exceto 0)
+
+  Ex15 :Crie um algoritmo que leia a idade de várias pessoas e classifique-as em criança(0-12), adolescente(13-17), adulto (18-59) e idoso (60+). O algoritmo deve continuar lendo as idades até que o usuário digite um número negativo.
+  
+  Ex16 :Crie um algoritmo de uma calculadora simples, onde o usuário entrará com dois valores inteiros positivos e será calculado todas as 4 operações matemáticas.
+
+  Ex17 :Desenvolva um algoritmo que leia o peso de 50 pessoas. Este algoritmo deverá calcular e mostrar a média de peso do grupo.
